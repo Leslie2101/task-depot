@@ -2,6 +2,8 @@
 
 A vintage thermal-receipt todo app with a FastAPI + SQLite backend.
 
+![alt text](images/image.png)
+![alt text](images/image-1.png)
 ## Project structure
 
 ```
